@@ -67,3 +67,8 @@ Como um lego, vocé irá utilizar peças para criar algoritmos, ou seja, para re
 # Estrutura de repetição
 
 - [x] While
+
+
+# Condicionais
+
+- [x] Switch
