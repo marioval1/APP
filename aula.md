@@ -62,3 +62,8 @@ Como um lego, vocé irá utilizar peças para criar algoritmos, ou seja, para re
 - [x] Criar, passar argumento
 - [x] Executar
 - [x] arrow function / named function
+
+
+# Estrutura de repetição
+
+- [x] While
